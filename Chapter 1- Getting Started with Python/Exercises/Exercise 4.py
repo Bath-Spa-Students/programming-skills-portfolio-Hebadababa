@@ -1,3 +1,4 @@
 name = "heba"
+surname = "albari"
 theme = "is awesome"
-print(name,theme)
+print(name, surname, theme)
